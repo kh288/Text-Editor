@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Contact Cards",
-  "short_name": "Contact",
+  "name": "Just Another Text Editor",
+  "short_name": "JATE",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
